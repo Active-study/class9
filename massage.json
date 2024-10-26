@@ -1,1 +1,21 @@
-
+{
+    "data": [
+        {
+            
+          "title": "What is the capital of France?",
+            "massage": "Paris"
+        },
+        {
+            "title": "Who wrote 'Romeo and Juliet'?",
+            "massage": "William Shakespeare"
+        },
+        {
+            "massage": "What is the chemical symbol for water?",
+            "title": "H2O"
+        },
+        {
+            "massage": "Which planet is known as the Red Planet?",
+            "title": "Mars"
+        }
+    ]
+}

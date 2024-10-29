@@ -210,6 +210,48 @@
                     {"qpdf": "https://example.com/gravitation/question-pdf1"},
                     {"qpdf": "https://example.com/gravitation/question-pdf2"}
                 ]
+            },
+                  {
+                "chapter": "Work and Energy",
+                "notes":"url",
+                "ncertsol": "https://example.com/gravitation/solutions",
+                "ncertbook": "https://drive.google.com/file/d/1L1fw-VcIFYiIemhy9WsPP1INfdn5bmXL/view?usp=sharing",
+                "worksheet": "https://example.com/gravitation/worksheet",
+                   "Hindi_book":"url",
+                "questions": [
+                    {"qsn": "https://example.com/gravitation/question1"},
+                    {"qsn": "https://example.com/gravitation/question2"},
+                    {"qsn": "https://example.com/gravitation/question3"}
+                ],
+                "quiz": [
+                    {"qz": "https://example.com/gravitation/quiz1"},
+                    {"qz": "https://example.com/gravitation/quiz2"}
+                ],
+                "questionsPDF": [
+                    {"qpdf": "https://example.com/gravitation/question-pdf1"},
+                    {"qpdf": "https://example.com/gravitation/question-pdf2"}
+                ]
+            },
+                  {
+                "chapter": "Sound",
+                "notes":"url",
+                "ncertsol": "https://example.com/gravitation/solutions",
+                "ncertbook": "https://drive.google.com/file/d/1ILbmB5ZJW6eAPUkT1YLW33CKnF7nRofa/view?usp=sharing",
+                "worksheet": "https://example.com/gravitation/worksheet",
+                   "Hindi_book":"url",
+                "questions": [
+                    {"qsn": "https://example.com/gravitation/question1"},
+                    {"qsn": "https://example.com/gravitation/question2"},
+                    {"qsn": "https://example.com/gravitation/question3"}
+                ],
+                "quiz": [
+                    {"qz": "https://example.com/gravitation/quiz1"},
+                    {"qz": "https://example.com/gravitation/quiz2"}
+                ],
+                "questionsPDF": [
+                    {"qpdf": "https://example.com/gravitation/question-pdf1"},
+                    {"qpdf": "https://example.com/gravitation/question-pdf2"}
+                ]
             }
         ]
     }

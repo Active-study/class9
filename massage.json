@@ -2,24 +2,26 @@
     "data": [
         {
             
-          "title": "What is the capital of France?",
-            "massage": "Paris",
-            "imgurl":"https://drive.google.com/uc?export=download&id=1Itc2_AfMFSNE2XFj2wDNNJKicI7nLne_"
+          "title": "Individually, we are one drop. Together, we are an ocean.",
+            "massage": "Every contribution, no matter how small, adds to our collective strength. Let's keep pushing forward, united and unstoppable. What's your team working on? Let's dig into it!",
+            "imgurl":""
         },
         {
             "title": "Who wrote 'Romeo and Juliet'?",
             "massage": "William Shakespeare",
-            "imgurl":""
+            "imgurl":"https://drive.google.com/uc?export=download&id=1Itc2_AfMFSNE2XFj2wDNNJKicI7nLne_"
         },
         {
-            "massage": "What is the chemical symbol for water?",
-            "title": "H2O",
-            "imgurl":"https://drive.google.com/uc?export=download&id=1w3eGumMhTyw21ur8_hkgs8l1MfQiqRM-"
+            "massage": "अकेले, हम एक बूँद हैं। साथ में, हम एक सागर हैं।"
+
+
+            "title": "हर योगदान, चाहे वह कितना भी छोटा क्यों न हो, हमारी सामूहिक शक्ति को बढ़ाता है। आइए हम एकजुट और अजेय होकर आगे बढ़ते रहें।टीम स्पिरिट को बनाए रखें!",
+            "imgurl":""
         },
         {
             "massage": "Which planet is known as the Red Planet?",
             "title": "Mars",
-            "imgurl":""
+            "imgurl":"https://drive.google.com/uc?export=download&id=1iHiOybjtjg5Bv4bznIWDzR_rNSJxdMvh"
         }
     ]
 }

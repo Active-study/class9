@@ -2,22 +2,22 @@
     "data": [
         {
             "title": "Individually, we are one drop. Together, we are an ocean.",
-            "message": "Every contribution, no matter how small, adds to our collective strength. Let's keep pushing forward, united and unstoppable.",
+            "massage": "Every contribution, no matter how small, adds to our collective strength. Let's keep pushing forward, united and unstoppable.",
             "imgurl": ""
         },
         {
             "title": "Who wrote 'Romeo and Juliet'?",
-            "message": "William Shakespeare",
+            "massage": "William Shakespeare",
             "imgurl": "https://drive.google.com/uc?export=download&id=1Itc2_AfMFSNE2XFj2wDNNJKicI7nLne_"
         },  {
             "title": "अकेले, हम एक बूँद हैं। साथ में, हम एक सागर हैं।",
-            "message": "हर योगदान, चाहे वह कितना भी छोटा क्यों न हो, हमारी सामूहिक शक्ति को बढ़ाता है। आइए हम एकजुट और अजेय होकर आगे बढ़ते रहें।टीम स्पिरिट को बनाए रखें!",
+            "massage": "हर योगदान, चाहे वह कितना भी छोटा क्यों न हो, हमारी सामूहिक शक्ति को बढ़ाता है। आइए हम एकजुट और अजेय होकर आगे बढ़ते रहें।टीम स्पिरिट को बनाए रखें!",
             "imgurl": ""
         },
       
         {
             "title": "Which planet is known as the Red Planet?",
-            "message": "Mars",
+            "massage": "Mars",
             "imgurl": ""
         }
     ]

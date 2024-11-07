@@ -250,7 +250,7 @@
                 ],
                 "questionsPDF": [
                     {"qpdf": "https://example.com/gravitation/question-pdf1"},
-                    {"qpdf": "https://example.com/gravitation/question-pdf2"}
+                    {"qpdf": "https://www.google.com/"}
                 ]
             }
         ]

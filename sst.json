@@ -314,6 +314,111 @@
                 {"qpdf": "https://example.com/food-security-in-india/question-pdf1"},
                 {"qpdf": "https://example.com/food-security-in-india/question-pdf2"}
             ]
+        },
+        {
+            "chapter": "What is Democracy? Why Democracy?",
+            "ncertsol": "https://example.com/what-is-democracy/solutions",
+            "notes": "url",
+            "ncertbook": "https://drive.google.com/file/d/12mesK7EWhwReK7rDigugSJEptOif-siT/view?usp=sharing",
+            "Hindi_book": "url",
+            "worksheet": "https://example.com/what-is-democracy/worksheet",
+            "questions": [
+                {"qsn": "https://example.com/what-is-democracy/question1"},
+                {"qsn": "https://example.com/what-is-democracy/question2"},
+                {"qsn": "https://example.com/what-is-democracy/question3"}
+            ],
+            "quiz": [
+                {"qz": "https://example.com/what-is-democracy/quiz1"},
+                {"qz": "https://example.com/what-is-democracy/quiz2"}
+            ],
+            "questionsPDF": [
+                {"qpdf": "https://example.com/what-is-democracy/question-pdf1"},
+                {"qpdf": "https://example.com/what-is-democracy/question-pdf2"}
+            ]
+        },
+        {
+            "chapter": "Constitutional Design",
+            "ncertsol": "https://example.com/constitutional-design/solutions",
+            "notes": "url",
+            "ncertbook": "https://drive.google.com/file/d/1Z9Q6wJqJk6aBttdzlSp5jDV8KqqjBx-q/view?usp=drive_link",
+            "Hindi_book": "url",
+            "worksheet": "https://example.com/constitutional-design/worksheet",
+            "questions": [
+                {"qsn": "https://example.com/constitutional-design/question1"},
+                {"qsn": "https://example.com/constitutional-design/question2"},
+                {"qsn": "https://example.com/constitutional-design/question3"}
+            ],
+            "quiz": [
+                {"qz": "https://example.com/constitutional-design/quiz1"},
+                {"qz": "https://example.com/constitutional-design/quiz2"}
+            ],
+            "questionsPDF": [
+                {"qpdf": "https://example.com/constitutional-design/question-pdf1"},
+                {"qpdf": "https://example.com/constitutional-design/question-pdf2"}
+            ]
+        },
+        {
+            "chapter": "Electoral Politics",
+            "ncertsol": "https://example.com/electoral-politics/solutions",
+            "notes": "url",
+            "ncertbook": "https://drive.google.com/file/d/17eX3TTYkbBHJGkZOg0HUxFIaSgKt1f8a/view?usp=drive_link",
+            "Hindi_book": "url",
+            "worksheet": "https://example.com/electoral-politics/worksheet",
+            "questions": [
+                {"qsn": "https://example.com/electoral-politics/question1"},
+                {"qsn": "https://example.com/electoral-politics/question2"},
+                {"qsn": "https://example.com/electoral-politics/question3"}
+            ],
+            "quiz": [
+                {"qz": "https://example.com/electoral-politics/quiz1"},
+                {"qz": "https://example.com/electoral-politics/quiz2"}
+            ],
+            "questionsPDF": [
+                {"qpdf": "https://example.com/electoral-politics/question-pdf1"},
+                {"qpdf": "https://example.com/electoral-politics/question-pdf2"}
+            ]
+        },
+        {
+            "chapter": "Working of Institutions",
+            "ncertsol": "https://example.com/working-of-institutions/solutions",
+            "notes": "url",
+            "ncertbook": "https://drive.google.com/file/d/1loXc4oCGoc-b0HYDYDMUBVTx-6DWe7zq/view?usp=drive_link",
+            "Hindi_book": "url",
+            "worksheet": "https://example.com/working-of-institutions/worksheet",
+            "questions": [
+                {"qsn": "https://example.com/working-of-institutions/question1"},
+                {"qsn": "https://example.com/working-of-institutions/question2"},
+                {"qsn": "https://example.com/working-of-institutions/question3"}
+            ],
+            "quiz": [
+                {"qz": "https://example.com/working-of-institutions/quiz1"},
+                {"qz": "https://example.com/working-of-institutions/quiz2"}
+            ],
+            "questionsPDF": [
+                {"qpdf": "https://example.com/working-of-institutions/question-pdf1"},
+                {"qpdf": "https://example.com/working-of-institutions/question-pdf2"}
+            ]
+        },
+        {
+            "chapter": "Democratic Rights",
+            "ncertsol": "https://example.com/democratic-rights/solutions",
+            "notes": "url",
+            "ncertbook": "https://drive.google.com/file/d/1rgtvDtjxLUR7guQIezffqEe_-dA2XChW/view?usp=drive_link",
+            "Hindi_book": "url",
+            "worksheet": "https://example.com/democratic-rights/worksheet",
+            "questions": [
+                {"qsn": "https://example.com/democratic-rights/question1"},
+                {"qsn": "https://example.com/democratic-rights/question2"},
+                {"qsn": "https://example.com/democratic-rights/question3"}
+            ],
+            "quiz": [
+                {"qz": "https://example.com/democratic-rights/quiz1"},
+                {"qz": "https://example.com/democratic-rights/quiz2"}
+            ],
+            "questionsPDF": [
+                {"qpdf": "https://example.com/democratic-rights/question-pdf1"},
+                {"qpdf": "https://example.com/democratic-rights/question-pdf2"}
+            ]
         }
     ]
 }

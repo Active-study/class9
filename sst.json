@@ -1,215 +1,320 @@
 {
     "data": [
         {
-            "chapter": "Matter in Our Surroundings",
-            "ncertsol": "https://example.com/matter-in-our-surroundings/solutions",
-            "notes":"url",
-            "ncertbook": "https://drive.google.com/file/d/1t1M5g_jUHjZmqHAamTUpXvkmgwSVqNzD/view?usp=drivesdk",
-            "Hindi_book":"url",
-            "worksheet": "https://m.youtube.com/",
+            "chapter": "The French Revolution",
+            "ncertsol": "https://example.com/the-french-revolution/solutions",
+            "notes": "url",
+            "ncertbook": "https://example.com/the-french-revolution/book",
+            "Hindi_book": "url",
+            "worksheet": "https://example.com/the-french-revolution/worksheet",
             "questions": [
-                {"qsn": "https://raw.githubusercontent.com/Satyam2008/question/refs/heads/main/Matter%20in%20Our%20Surroundings%20(3).json"},
-                {"qsn": "https://example.com/matter-in-our-surroundings/question2"},
-                {"qsn": "https://example.com/matter-in-our-surroundings/question3"}
+                {"qsn": "https://example.com/the-french-revolution/question1"},
+                {"qsn": "https://example.com/the-french-revolution/question2"},
+                {"qsn": "https://example.com/the-french-revolution/question3"}
             ],
             "quiz": [
-                {"qz": "https://raw.githubusercontent.com/Satyam2008/question/refs/heads/main/mcq.json"},
-                {"qz": "https://example.com/matter-in-our-surroundings/quiz2"},
-                {"qz": "https://example.com/matter-in-our-surroundings/quiz1"}
+                {"qz": "https://example.com/the-french-revolution/quiz1"},
+                {"qz": "https://example.com/the-french-revolution/quiz2"}
             ],
             "questionsPDF": [
-                {"qpdf": "https://example.com/matter-in-our-surroundings/question-pdf1"},
-                {"qpdf": "https://example.com/matter-in-our-surroundings/question-pdf2"}
+                {"qpdf": "https://example.com/the-french-revolution/question-pdf1"},
+                {"qpdf": "https://example.com/the-french-revolution/question-pdf2"}
             ]
         },
         {
-            "chapter": "Is Matter Around Us Pure?",
-            "notes":"url",
-            "ncertsol": "https://example.com/is-matter-around-us-pure/solutions",
-            "ncertbook": "https://example.com/is-matter-around-us-pure/book",
-               "Hindi_book":"url",
-            "worksheet": "https://example.com/is-matter-around-us-pure/worksheet",
+            "chapter": "Socialism in Europe and the Russian Revolution",
+            "ncertsol": "https://example.com/socialism-in-europe-and-the-russian-revolution/solutions",
+            "notes": "url",
+            "ncertbook": "https://example.com/socialism-in-europe-and-the-russian-revolution/book",
+            "Hindi_book": "url",
+            "worksheet": "https://example.com/socialism-in-europe-and-the-russian-revolution/worksheet",
             "questions": [
-                {"qsn": "https://example.com/is-matter-around-us-pure/question1"},
-                {"qsn": "https://example.com/is-matter-around-us-pure/question2"},
-                {"qsn": "https://example.com/is-matter-around-us-pure/question3"}
+                {"qsn": "https://example.com/socialism-in-europe-and-the-russian-revolution/question1"},
+                {"qsn": "https://example.com/socialism-in-europe-and-the-russian-revolution/question2"},
+                {"qsn": "https://example.com/socialism-in-europe-and-the-russian-revolution/question3"}
             ],
             "quiz": [
-                {"qz": "https://example.com/is-matter-around-us-pure/quiz1"},
-                {"qz": "https://example.com/is-matter-around-us-pure/quiz2"}
+                {"qz": "https://example.com/socialism-in-europe-and-the-russian-revolution/quiz1"},
+                {"qz": "https://example.com/socialism-in-europe-and-the-russian-revolution/quiz2"}
             ],
             "questionsPDF": [
-                {"qpdf": "https://example.com/is-matter-around-us-pure/question-pdf1"},
-                {"qpdf": "https://example.com/is-matter-around-us-pure/question-pdf2"}
+                {"qpdf": "https://example.com/socialism-in-europe-and-the-russian-revolution/question-pdf1"},
+                {"qpdf": "https://example.com/socialism-in-europe-and-the-russian-revolution/question-pdf2"}
             ]
         },
         {
-            "chapter": "Atoms and Molecules",
-            "notes":"url",
-            "ncertsol": "https://example.com/atoms-and-molecules/solutions",
-            "ncertbook": "https://example.com/atoms-and-molecules/book",
-               "Hindi_book":"url",
-            "worksheet": "https://example.com/atoms-and-molecules/worksheet",
+            "chapter": "Nazism and the Rise of Hitler",
+            "ncertsol": "https://example.com/nazism-and-the-rise-of-hitler/solutions",
+            "notes": "url",
+            "ncertbook": "https://example.com/nazism-and-the-rise-of-hitler/book",
+            "Hindi_book": "url",
+            "worksheet": "https://example.com/nazism-and-the-rise-of-hitler/worksheet",
             "questions": [
-                {"qsn": "https://example.com/atoms-and-molecules/question1"},
-                {"qsn": "https://example.com/atoms-and-molecules/question2"},
-                {"qsn": "https://example.com/atoms-and-molecules/question3"}
+                {"qsn": "https://example.com/nazism-and-the-rise-of-hitler/question1"},
+                {"qsn": "https://example.com/nazism-and-the-rise-of-hitler/question2"},
+                {"qsn": "https://example.com/nazism-and-the-rise-of-hitler/question3"}
             ],
             "quiz": [
-                {"qz": "https://example.com/atoms-and-molecules/quiz1"},
-                {"qz": "https://example.com/atoms-and-molecules/quiz2"}
+                {"qz": "https://example.com/nazism-and-the-rise-of-hitler/quiz1"},
+                {"qz": "https://example.com/nazism-and-the-rise-of-hitler/quiz2"}
             ],
             "questionsPDF": [
-                {"qpdf": "https://example.com/atoms-and-molecules/question-pdf1"},
-                {"qpdf": "https://example.com/atoms-and-molecules/question-pdf2"}
+                {"qpdf": "https://example.com/nazism-and-the-rise-of-hitler/question-pdf1"},
+                {"qpdf": "https://example.com/nazism-and-the-rise-of-hitler/question-pdf2"}
             ]
         },
         {
-            "chapter": "Structure of the Atom",
-            "notes":"url",
-            "ncertsol": "https://example.com/structure-of-the-atom/solutions",
-            "ncertbook": "https://example.com/structure-of-the-atom/book",
-               "Hindi_book":"url",
-            "worksheet": "https://example.com/structure-of-the-atom/worksheet",
+            "chapter": "Forest Society and Colonialism",
+            "ncertsol": "https://example.com/forest-society-and-colonialism/solutions",
+            "notes": "url",
+            "ncertbook": "https://example.com/forest-society-and-colonialism/book",
+            "Hindi_book": "url",
+            "worksheet": "https://example.com/forest-society-and-colonialism/worksheet",
             "questions": [
-                {"qsn": "https://example.com/structure-of-the-atom/question1"},
-                {"qsn": "https://example.com/structure-of-the-atom/question2"},
-                {"qsn": "https://example.com/structure-of-the-atom/question3"}
+                {"qsn": "https://example.com/forest-society-and-colonialism/question1"},
+                {"qsn": "https://example.com/forest-society-and-colonialism/question2"},
+                {"qsn": "https://example.com/forest-society-and-colonialism/question3"}
             ],
             "quiz": [
-                {"qz": "https://example.com/structure-of-the-atom/quiz1"},
-                {"qz": "https://example.com/structure-of-the-atom/quiz2"}
+                {"qz": "https://example.com/forest-society-and-colonialism/quiz1"},
+                {"qz": "https://example.com/forest-society-and-colonialism/quiz2"}
             ],
             "questionsPDF": [
-                {"qpdf": "https://example.com/structure-of-the-atom/question-pdf1"},
-                {"qpdf": "https://example.com/structure-of-the-atom/question-pdf2"}
+                {"qpdf": "https://example.com/forest-society-and-colonialism/question-pdf1"},
+                {"qpdf": "https://example.com/forest-society-and-colonialism/question-pdf2"}
             ]
         },
         {
-            "chapter": "The Fundamental Unit of Life",
-            "notes":"url",
-            "ncertsol": "https://example.com/fundamental-unit-of-life/solutions",
-            "ncertbook": "https://example.com/fundamental-unit-of-life/book",
-               "Hindi_book":"url",
-            "worksheet": "https://example.com/fundamental-unit-of-life/worksheet",
+            "chapter": "Pastoralists in the Modern World",
+            "ncertsol": "https://example.com/pastoralists-in-the-modern-world/solutions",
+            "notes": "url",
+            "ncertbook": "https://example.com/pastoralists-in-the-modern-world/book",
+            "Hindi_book": "url",
+            "worksheet": "https://example.com/pastoralists-in-the-modern-world/worksheet",
             "questions": [
-                {"qsn": "https://example.com/fundamental-unit-of-life/question1"},
-                {"qsn": "https://example.com/fundamental-unit-of-life/question2"},
-                {"qsn": "https://example.com/fundamental-unit-of-life/question3"}
+                {"qsn": "https://example.com/pastoralists-in-the-modern-world/question1"},
+                {"qsn": "https://example.com/pastoralists-in-the-modern-world/question2"},
+                {"qsn": "https://example.com/pastoralists-in-the-modern-world/question3"}
             ],
             "quiz": [
-                {"qz": "https://example.com/fundamental-unit-of-life/quiz1"},
-                {"qz": "https://example.com/fundamental-unit-of-life/quiz2"}
+                {"qz": "https://example.com/pastoralists-in-the-modern-world/quiz1"},
+                {"qz": "https://example.com/pastoralists-in-the-modern-world/quiz2"}
             ],
             "questionsPDF": [
-                {"qpdf": "https://example.com/fundamental-unit-of-life/question-pdf1"},
-                {"qpdf": "https://example.com/fundamental-unit-of-life/question-pdf2"}
+                {"qpdf": "https://example.com/pastoralists-in-the-modern-world/question-pdf1"},
+                {"qpdf": "https://example.com/pastoralists-in-the-modern-world/question-pdf2"}
             ]
         },
         {
-            "chapter": "Tissues",
-            "notes":"url",
-            "ncertsol": "https://example.com/tissues/solutions",
-            "ncertbook": "https://example.com/tissues/book",
-               "Hindi_book":"url",
-            "worksheet": "https://example.com/tissues/worksheet",
+            "chapter": "India - Size and Location",
+            "ncertsol": "https://example.com/india-size-and-location/solutions",
+            "notes": "url",
+            "ncertbook": "https://drive.google.com/file/d/1_6cJl6AJajwdKRu_RDTFmIhRStDrwPXV/view?usp=sharing",
+            "Hindi_book": "url",
+            "worksheet": "https://example.com/india-size-and-location/worksheet",
             "questions": [
-                {"qsn": "https://example.com/tissues/question1"},
-                {"qsn": "https://example.com/tissues/question2"},
-                {"qsn": "https://example.com/tissues/question3"}
+                {"qsn": "https://example.com/india-size-and-location/question1"},
+                {"qsn": "https://example.com/india-size-and-location/question2"},
+                {"qsn": "https://example.com/india-size-and-location/question3"}
             ],
             "quiz": [
-                {"qz": "https://example.com/tissues/quiz1"},
-                {"qz": "https://example.com/tissues/quiz2"}
+                {"qz": "https://example.com/india-size-and-location/quiz1"},
+                {"qz": "https://example.com/india-size-and-location/quiz2"}
             ],
             "questionsPDF": [
-                {"qpdf": "https://example.com/tissues/question-pdf1"},
-                {"qpdf": "https://example.com/tissues/question-pdf2"}
+                {"qpdf": "https://example.com/india-size-and-location/question-pdf1"},
+                {"qpdf": "https://example.com/india-size-and-location/question-pdf2"}
             ]
         },
         {
-            "chapter": "Diversity in Living Organisms",
-            "notes":"url",
-            "ncertsol": "https://example.com/diversity-in-living-organisms/solutions",
-            "ncertbook": "https://example.com/diversity-in-living-organisms/book",
-               "Hindi_book":"url",
-            "worksheet": "https://example.com/diversity-in-living-organisms/worksheet",
+            "chapter": "Physical Features of India",
+            "ncertsol": "https://example.com/physical-features-of-india/solutions",
+            "notes": "url",
+            "ncertbook": "https://example.com/physical-features-of-india/book",
+            "Hindi_book": "url",
+            "worksheet": "https://example.com/physical-features-of-india/worksheet",
             "questions": [
-                {"qsn": "https://example.com/diversity-in-living-organisms/question1"},
-                {"qsn": "https://example.com/diversity-in-living-organisms/question2"},
-                {"qsn": "https://example.com/diversity-in-living-organisms/question3"}
+                {"qsn": "https://example.com/physical-features-of-india/question1"},
+                {"qsn": "https://example.com/physical-features-of-india/question2"},
+                {"qsn": "https://example.com/physical-features-of-india/question3"}
             ],
             "quiz": [
-                {"qz": "https://example.com/diversity-in-living-organisms/quiz1"},
-                {"qz": "https://example.com/diversity-in-living-organisms/quiz2"}
+                {"qz": "https://example.com/physical-features-of-india/quiz1"},
+                {"qz": "https://example.com/physical-features-of-india/quiz2"}
             ],
             "questionsPDF": [
-                {"qpdf": "https://example.com/diversity-in-living-organisms/question-pdf1"},
-                {"qpdf": "https://example.com/diversity-in-living-organisms/question-pdf2"}
+                {"qpdf": "https://example.com/physical-features-of-india/question-pdf1"},
+                {"qpdf": "https://example.com/physical-features-of-india/question-pdf2"}
             ]
         },
         {
-            "chapter": "Motion",
-            "notes":"url",
-            "ncertsol": "https://example.com/motion/solutions",
-            "ncertbook": "https://example.com/motion/book",
-               "Hindi_book":"url",
-            "worksheet": "https://example.com/motion/worksheet",
+            "chapter": "Drainage",
+            "ncertsol": "https://example.com/drainage/solutions",
+            "notes": "url",
+            "ncertbook": "https://example.com/drainage/book",
+            "Hindi_book": "url",
+            "worksheet": "https://example.com/drainage/worksheet",
             "questions": [
-                {"qsn": "https://example.com/motion/question1"},
-                {"qsn": "https://example.com/motion/question2"},
-                {"qsn": "https://example.com/motion/question3"}
+                {"qsn": "https://example.com/drainage/question1"},
+                {"qsn": "https://example.com/drainage/question2"},
+                {"qsn": "https://example.com/drainage/question3"}
             ],
             "quiz": [
-                {"qz": "https://example.com/motion/quiz1"},
-                {"qz": "https://example.com/motion/quiz2"}
+                {"qz": "https://example.com/drainage/quiz1"},
+                {"qz": "https://example.com/drainage/quiz2"}
             ],
             "questionsPDF": [
-                {"qpdf": "https://example.com/motion/question-pdf1"},
-                {"qpdf": "https://example.com/motion/question-pdf2"}
+                {"qpdf": "https://example.com/drainage/question-pdf1"},
+                {"qpdf": "https://example.com/drainage/question-pdf2"}
             ]
         },
         {
-            "chapter": "Force and Laws of Motion",
-            "notes":"url",
-            "ncertsol": "https://example.com/force-and-laws-of-motion/solutions",
-            "ncertbook": "https://example.com/force-and-laws-of-motion/book",
-               "Hindi_book":"url",
-            "worksheet": "https://example.com/force-and-laws-of-motion/worksheet",
+            "chapter": "Climate",
+            "ncertsol": "https://example.com/climate/solutions",
+            "notes": "url",
+            "ncertbook": "https://example.com/climate/book",
+            "Hindi_book": "url",
+            "worksheet": "https://example.com/climate/worksheet",
             "questions": [
-                {"qsn": "https://example.com/force-and-laws-of-motion/question1"},
-                {"qsn": "https://example.com/force-and-laws-of-motion/question2"},
-                {"qsn": "https://example.com/force-and-laws-of-motion/question3"}
+                {"qsn": "https://example.com/climate/question1"},
+                {"qsn": "https://example.com/climate/question2"},
+                {"qsn": "https://example.com/climate/question3"}
             ],
             "quiz": [
-                {"qz": "https://example.com/force-and-laws-of-motion/quiz1"},
-                {"qz": "https://example.com/force-and-laws-of-motion/quiz2"}
+                {"qz": "https://example.com/climate/quiz1"},
+                {"qz": "https://example.com/climate/quiz2"}
             ],
             "questionsPDF": [
-                {"qpdf": "https://example.com/force-and-laws-of-motion/question-pdf1"},
-                {"qpdf": "https://example.com/force-and-laws-of-motion/question-pdf2"}
+                {"qpdf": "https://example.com/climate/question-pdf1"},
+                {"qpdf": "https://example.com/climate/question-pdf2"}
             ]
         },
         {
-            "chapter": "Gravitation",
-            "notes":"url",
-            "ncertsol": "https://example.com/gravitation/solutions",
-            "ncertbook": "https://example.com/gravitation/book",
-            "worksheet": "https://example.com/gravitation/worksheet",
-               "Hindi_book":"url",
+            "chapter": "Natural Vegetation and Wildlife",
+            "ncertsol": "https://example.com/natural-vegetation-and-wildlife/solutions",
+            "notes": "url",
+            "ncertbook": "https://example.com/natural-vegetation-and-wildlife/book",
+            "Hindi_book": "url",
+            "worksheet": "https://example.com/natural-vegetation-and-wildlife/worksheet",
             "questions": [
-                {"qsn": "https://example.com/gravitation/question1"},
-                {"qsn": "https://example.com/gravitation/question2"},
-                {"qsn": "https://example.com/gravitation/question3"}
+                {"qsn": "https://example.com/natural-vegetation-and-wildlife/question1"},
+                {"qsn": "https://example.com/natural-vegetation-and-wildlife/question2"},
+                {"qsn": "https://example.com/natural-vegetation-and-wildlife/question3"}
             ],
             "quiz": [
-                {"qz": "https://example.com/gravitation/quiz1"},
-                {"qz": "https://example.com/gravitation/quiz2"}
+                {"qz": "https://example.com/natural-vegetation-and-wildlife/quiz1"},
+                {"qz": "https://example.com/natural-vegetation-and-wildlife/quiz2"}
             ],
             "questionsPDF": [
-                {"qpdf": "https://example.com/gravitation/question-pdf1"},
-                {"qpdf": "https://example.com/gravitation/question-pdf2"}
+                {"qpdf": "https://example.com/natural-vegetation-and-wildlife/question-pdf1"},
+                {"qpdf": "https://example.com/natural-vegetation-and-wildlife/question-pdf2"}
+            ]
+        },
+        {
+            "chapter": "Population",
+            "ncertsol": "https://example.com/population/solutions",
+            "notes": "url",
+            "ncertbook": "https://example.com/population/book",
+            "Hindi_book": "url",
+            "worksheet": "https://example.com/population/worksheet",
+            "questions": [
+                {"qsn": "https://example.com/population/question1"},
+                {"qsn": "https://example.com/population/question2"},
+                {"qsn": "https://example.com/population/question3"}
+            ],
+            "quiz": [
+                {"qz": "https://example.com/population/quiz1"},
+                {"qz": "https://example.com/population/quiz2"}
+            ],
+            "questionsPDF": [
+                {"qpdf": "https://example.com/population/question-pdf1"},
+                {"qpdf": "https://example.com/population/question-pdf2"}
+            ]
+        },
+        {
+            "chapter": "The Story of Village Palampur",
+            "ncertsol": "https://example.com/the-story-of-village-palampur/solutions",
+            "notes": "url",
+            "ncertbook": "https://example.com/the-story-of-village-palampur/book",
+            "Hindi_book": "url",
+            "worksheet": "https://example.com/the-story-of-village-palampur/worksheet",
+            "questions": [
+                {"qsn": "https://example.com/the-story-of-village-palampur/question1"},
+                {"qsn": "https://example.com/the-story-of-village-palampur/question2"},
+                {"qsn": "https://example.com/the-story-of-village-palampur/question3"}
+            ],
+            "quiz": [
+                {"qz": "https://example.com/the-story-of-village-palampur/quiz1"},
+                {"qz": "https://example.com/the-story-of-village-palampur/quiz2"}
+            ],
+            "questionsPDF": [
+                {"qpdf": "https://example.com/the-story-of-village-palampur/question-pdf1"},
+                {"qpdf": "https://example.com/the-story-of-village-palampur/question-pdf2"}
+            ]
+        },
+        {
+            "chapter": "People as Resource",
+            "ncertsol": "https://example.com/people-as-resource/solutions",
+            "notes": "url",
+            "ncertbook": "https://example.com/people-as-resource/book",
+            "Hindi_book": "url",
+            "worksheet": "https://example.com/people-as-resource/worksheet",
+            "questions": [
+                {"qsn": "https://example.com/people-as-resource/question1"},
+                {"qsn": "https://example.com/people-as-resource/question2"},
+                {"qsn": "https://example.com/people-as-resource/question3"}
+            ],
+            "quiz": [
+                {"qz": "https://example.com/people-as-resource/quiz1"},
+                {"qz": "https://example.com/people-as-resource/quiz2"}
+            ],
+            "questionsPDF": [
+                {"qpdf": "https://example.com/people-as-resource/question-pdf1"},
+                {"qpdf": "https://example.com/people-as-resource/question-pdf2"}
+            ]
+        },
+        {
+            "chapter": "Poverty as a Challenge",
+            "ncertsol": "https://example.com/poverty-as-a-challenge/solutions",
+            "notes": "url",
+            "ncertbook": "https://example.com/poverty-as-a-challenge/book",
+            "Hindi_book": "url",
+            "worksheet": "https://example.com/poverty-as-a-challenge/worksheet",
+            "questions": [
+                {"qsn": "https://example.com/poverty-as-a-challenge/question1"},
+                {"qsn": "https://example.com/poverty-as-a-challenge/question2"},
+                {"qsn": "https://example.com/poverty-as-a-challenge/question3"}
+            ],
+            "quiz": [
+                {"qz": "https://example.com/poverty-as-a-challenge/quiz1"},
+                {"qz": "https://example.com/poverty-as-a-challenge/quiz2"}
+            ],
+            "questionsPDF": [
+                {"qpdf": "https://example.com/poverty-as-a-challenge/question-pdf1"},
+                {"qpdf": "https://example.com/poverty-as-a-challenge/question-pdf2"}
+            ]
+        },
+        {
+            "chapter": "Food Security in India",
+            "ncertsol": "https://example.com/food-security-in-india/solutions",
+            "notes": "url",
+            "ncertbook": "https://example.com/food-security-in-india/book",
+            "Hindi_book": "url",
+            "worksheet": "https://example.com/food-security-in-india/worksheet",
+            "questions": [
+                {"qsn": "https://example.com/food-security-in-india/question1"},
+                {"qsn": "https://example.com/food-security-in-india/question2"},
+                {"qsn": "https://example.com/food-security-in-india/question3"}
+            ],
+            "quiz": [
+                {"qz": "https://example.com/food-security-in-india/quiz1"},
+                {"qz": "https://example.com/food-security-in-india/quiz2"}
+            ],
+            "questionsPDF": [
+                {"qpdf": "https://example.com/food-security-in-india/question-pdf1"},
+                {"qpdf": "https://example.com/food-security-in-india/question-pdf2"}
             ]
         }
     ]
 }
+

@@ -1,0 +1,361 @@
+{
+  "data": [
+    {
+      "chapter": "Quadrilaterals Ex 8.1",
+      "ncertsol": "https://example.com/quadrilaterals-ex8-1/solutions",
+      "notes": "url",
+      "ncertbook": "https://drive.google.com/file/d/1dp0AhxPSmAjHzWPgKqBNqg6inwZUTHdy/view?usp=sharing",
+      "Hindi_book": "url",
+      "worksheet": "https://example.com/quadrilaterals-ex8-1/worksheet",
+      "questions": [
+        {"qsn": "https://example.com/quadrilaterals-ex8-1/question1"}
+      ],
+      "quiz": [
+        {"qz": "https://example.com/quadrilaterals-ex8-1/quiz1"}
+      ],
+      "qpdf": [
+        {"qsnpdf": "https://example.com/quadrilaterals-ex8-1/question-pdf1"}
+      ]
+    },
+    {
+      "chapter": "Quadrilaterals Ex 8.2",
+      "ncertsol": "https://example.com/quadrilaterals-ex8-2/solutions",
+      "notes": "url",
+      "ncertbook": "https://drive.google.com/file/d/1dp0AhxPSmAjHzWPgKqBNqg6inwZUTHdy/view?usp=sharing",
+      "Hindi_book": "url",
+      "worksheet": "https://example.com/quadrilaterals-ex8-2/worksheet",
+      "questions": [
+        {"qsn": "https://example.com/quadrilaterals-ex8-2/question1"}
+      ],
+      "quiz": [
+        {"qz": "https://example.com/quadrilaterals-ex8-2/quiz1"}
+      ],
+      "qpdf": [
+        {"qsnpdf": "https://example.com/quadrilaterals-ex8-2/question-pdf1"}
+      ]
+    },
+    {
+      "chapter": "Areas of Parallelograms and Triangles Ex 9.1",
+      "ncertsol": "https://example.com/areas-of-parallelograms-and-triangles-ex9-1/solutions",
+      "notes": "url",
+      "ncertbook": "https://drive.google.com/file/d/1dp0AhxPSmAjHzWPgKqBNqg6inwZUTHdy/view?usp=sharing",
+      "Hindi_book": "url",
+      "worksheet": "https://example.com/areas-of-parallelograms-and-triangles-ex9-1/worksheet",
+      "questions": [
+        {"qsn": "https://example.com/areas-of-parallelograms-and-triangles-ex9-1/question1"}
+      ],
+      "quiz": [
+        {"qz": "https://example.com/areas-of-parallelograms-and-triangles-ex9-1/quiz1"}
+      ],
+      "qpdf": [
+        {"qsnpdf": "https://example.com/areas-of-parallelograms-and-triangles-ex9-1/question-pdf1"}
+      ]
+    },
+    {
+      "chapter": "Areas of Parallelograms and Triangles Ex 9.2",
+      "ncertsol": "https://example.com/areas-of-parallelograms-and-triangles-ex9-2/solutions",
+      "notes": "url",
+      "ncertbook": "https://drive.google.com/file/d/1dp0AhxPSmAjHzWPgKqBNqg6inwZUTHdy/view?usp=sharing",
+      "Hindi_book": "url",
+      "worksheet": "https://example.com/areas-of-parallelograms-and-triangles-ex9-2/worksheet",
+      "questions": [
+        {"qsn": "https://example.com/areas-of-parallelograms-and-triangles-ex9-2/question1"}
+      ],
+      "quiz": [
+        {"qz": "https://example.com/areas-of-parallelograms-and-triangles-ex9-2/quiz1"}
+      ],
+      "qpdf": [
+        {"qsnpdf": "https://example.com/areas-of-parallelograms-and-triangles-ex9-2/question-pdf1"}
+      ]
+    },
+    {
+      "chapter": "Areas of Parallelograms and Triangles Ex 9.3",
+      "ncertsol": "https://example.com/areas-of-parallelograms-and-triangles-ex9-3/solutions",
+      "notes": "url",
+      "ncertbook": "https://drive.google.com/file/d/1dp0AhxPSmAjHzWPgKqBNqg6inwZUTHdy/view?usp=sharing",
+      "Hindi_book": "url",
+      "worksheet": "https://example.com/areas-of-parallelograms-and-triangles-ex9-3/worksheet",
+      "questions": [
+        {"qsn": "https://example.com/areas-of-parallelograms-and-triangles-ex9-3/question1"}
+      ],
+      "quiz": [
+        {"qz": "https://example.com/areas-of-parallelograms-and-triangles-ex9-3/quiz1"}
+      ],
+      "qpdf": [
+        {"qsnpdf": "https://example.com/areas-of-parallelograms-and-triangles-ex9-3/question-pdf1"}
+      ]
+    },
+    {
+      "chapter": "Circles Ex 10.1",
+      "ncertsol": "https://example.com/circles-ex10-1/solutions",
+      "notes": "url",
+      "ncertbook": "https://drive.google.com/file/d/1dp0AhxPSmAjHzWPgKqBNqg6inwZUTHdy/view?usp=sharing",
+      "Hindi_book": "url",
+      "worksheet": "https://example.com/circles-ex10-1/worksheet",
+      "questions": [
+        {"qsn": "https://example.com/circles-ex10-1/question1"}
+      ],
+      "quiz": [
+        {"qz": "https://example.com/circles-ex10-1/quiz1"}
+      ],
+      "qpdf": [
+        {"qsnpdf": "https://example.com/circles-ex10-1/question-pdf1"}
+      ]
+    },
+    {
+      "chapter": "Circles Ex 10.2",
+      "ncertsol": "https://example.com/circles-ex10-2/solutions",
+      "notes": "url",
+      "ncertbook": "https://drive.google.com/file/d/1dp0AhxPSmAjHzWPgKqBNqg6inwZUTHdy/view?usp=sharing",
+      "Hindi_book": "url",
+      "worksheet": "https://example.com/circles-ex10-2/worksheet",
+      "questions": [
+        {"qsn": "https://example.com/circles-ex10-2/question1"}
+      ],
+      "quiz": [
+        {"qz": "https://example.com/circles-ex10-2/quiz1"}
+      ],
+      "qpdf": [
+        {"qsnpdf": "https://example.com/circles-ex10-2/question-pdf1"}
+      ]
+    },
+    {
+      "chapter": "Circles Ex 10.3",
+      "ncertsol": "https://example.com/circles-ex10-3/solutions",
+      "notes": "url",
+      "ncertbook": "https://drive.google.com/file/d/1dp0AhxPSmAjHzWPgKqBNqg6inwZUTHdy/view?usp=sharing",
+      "Hindi_book": "url",
+      "worksheet": "https://example.com/circles-ex10-3/worksheet",
+      "questions": [
+        {"qsn": "https://example.com/circles-ex10-3/question1"}
+      ],
+      "quiz": [
+        {"qz": "https://example.com/circles-ex10-3/quiz1"}
+      ],
+      "qpdf": [
+        {"qsnpdf": "https://example.com/circles-ex10-3/question-pdf1"}
+      ]
+    },
+    {
+      "chapter": "Constructions Ex 11.1",
+      "ncertsol": "https://example.com/constructions-ex11-1/solutions",
+      "notes": "url",
+      "ncertbook": "https://drive.google.com/file/d/1dp0AhxPSmAjHzWPgKqBNqg6inwZUTHdy/view?usp=sharing",
+      "Hindi_book": "url",
+      "worksheet": "https://example.com/constructions-ex11-1/worksheet",
+      "questions": [
+        {"qsn": "https://example.com/constructions-ex11-1/question1"}
+      ],
+      "quiz": [
+        {"qz": "https://example.com/constructions-ex11-1/quiz1"}
+      ],
+      "qpdf": [
+        {"qsnpdf": "https://example.com/constructions-ex11-1/question-pdf1"}
+      ]
+    },
+    {
+      "chapter": "Heron’s Formula Ex 12.1",
+      "ncertsol": "https://example.com/herons-formula-ex12-1/solutions",
+      "notes": "url",
+      "ncertbook": "https://drive.google.com/file/d/1dp0AhxPSmAjHzWPgKqBNqg6inwZUTHdy/view?usp=sharing",
+      "Hindi_book": "url",
+      "worksheet": "https://example.com/herons-formula-ex12-1/worksheet",
+      "questions": [
+        {"qsn": "https://example.com/herons-formula-ex12-1/question1"}
+      ],
+      "quiz": [
+        {"qz": "https://example.com/herons-formula-ex12-1/quiz1"}
+      ],
+      "qpdf": [
+        {"qsnpdf": "https://example.com/herons-formula-ex12-1/question-pdf1"}
+      ]
+    },
+    {
+      "chapter": "Heron’s Formula Ex 12.2",
+      "ncertsol": "https://example.com/herons-formula-ex12-2/solutions",
+      "notes": "url",
+      "ncertbook": "https://drive.google.com/file/d/1dp0AhxPSmAjHzWPgKqBNqg6inwZUTHdy/view?usp=sharing",
+      "Hindi_book": "url",
+      "worksheet": "https://example.com/herons-formula-ex12-2/worksheet",
+      "questions": [
+        {"qsn": "https://example.com/herons-formula-ex12-2/question1"}
+      ],
+      "quiz": [
+        {"qz": "https://example.com/herons-formula-ex12-2/quiz1"}
+      ],
+      "qpdf": [
+        {"qsnpdf": "https://example.com/herons-formula-ex12-2/question-pdf1"}
+      ]
+    },
+    {
+      "chapter": "Surface Areas and Volumes Ex 13.1",
+      "ncertsol": "https://example.com/surface-areas-and-volumes-ex13-1/solutions",
+      "notes": "url",
+      "ncertbook": "https://drive.google.com/file/d/1dp0AhxPSmAjHzWPgKqBNqg6inwZUTHdy/view?usp=sharing",
+      "Hindi_book": "url",
+      "worksheet": "https://example.com/surface-areas-and-volumes-ex13-1/worksheet",
+      "questions": [
+        {"qsn": "https://example.com/surface-areas-and-volumes-ex13-1/question1"}
+      ],
+      "quiz": [
+        {"qz": "https://example.com/surface-areas-and-volumes-ex13-1/quiz1"}
+      ],
+      "qpdf": [
+        {"qsnpdf": "https://example.com/surface-areas-and-volumes-ex13-1/question-pdf1"}
+      ]
+    },
+    {
+      "chapter": "Surface Areas and Volumes Ex 13.2",
+      "ncertsol": "https://example.com/surface-areas-and-volumes-ex13-2/solutions",
+      "notes": "url",
+      "ncertbook": "https://drive.google.com/file/d/1dp0AhxPSmAjHzWPgKqBNqg6inwZUTHdy/view?usp=sharing",
+      "Hindi_book": "url",
+      "worksheet": "https://example.com/surface-areas-and-volumes-ex13-2/worksheet",
+      "questions": [
+        {"qsn": "https://example.com/surface-areas-and-volumes-ex13-2/question1"}
+      ],
+      "quiz": [
+        {"qz": "https://example.com/surface-areas-and-volumes-ex13-2/quiz1"}
+      ],
+      "qpdf": [
+        {"qsnpdf": "https://example.com/surface-areas-and-volumes-ex13-2/question-pdf1"}
+      ]
+    },
+    {
+      "chapter": "Surface Areas and Volumes Ex 13.3",
+      "ncertsol": "https://example.com/surface-areas-and-volumes-ex13-3/solutions",
+      "notes": "url",
+      "ncertbook": "https://drive.google.com/file/d/1dp0AhxPSmAjHzWPgKqBNqg6inwZUTHdy/view?usp=sharing",
+      "Hindi_book": "url",
+      "worksheet": "https://example.com/surface-areas-and-volumes-ex13-3/worksheet",
+      "questions": [
+        {"qsn": "https://example.com/surface-areas-and-volumes-ex13-3/question1"}
+      ],
+      "quiz": [
+        {"qz": "https://example.com/surface-areas-and-volumes-ex13-3/quiz1"}
+      ],
+      "qpdf": [
+        {"qsnpdf": "https://example.com/surface-areas-and-volumes-ex13-3/question-pdf1"}
+      ]
+    },
+    {
+      "chapter": "Surface Areas and Volumes Ex 13.4",
+      "ncertsol": "https://example.com/surface-areas-and-volumes-ex13-4/solutions",
+      "notes": "url",
+      "ncertbook": "https://drive.google.com/file/d/1dp0AhxPSmAjHzWPgKqBNqg6inwZUTHdy/view?usp=sharing",
+      "Hindi_book": "url",
+      "worksheet": "https://example.com/surface-areas-and-volumes-ex13-4/worksheet",
+      "questions": [
+        {"qsn": "https://example.com/surface-areas-and-volumes-ex13-4/question1"}
+      ],
+      "quiz": [
+        {"qz": "https://example.com/surface-areas-and-volumes-ex13-4/quiz1"}
+      ],
+      "qpdf": [
+        {"qsnpdf": "https://example.com/surface-areas-and-volumes-ex13-4/question-pdf1"}
+      ]
+    },
+    {
+      "chapter": "Surface Areas and Volumes Ex 13.5",
+      "ncertsol": "https://example.com/surface-areas-and-volumes-ex13-5/solutions",
+      "notes": "url",
+      "ncertbook": "https://drive.google.com/file/d/1dp0AhxPSmAjHzWPgKqBNqg6inwZUTHdy/view?usp=sharing",
+      "Hindi_book": "url",
+      "worksheet": "https://example.com/surface-areas-and-volumes-ex13-5/worksheet",
+      "questions": [
+        {"qsn": "https://example.com/surface-areas-and-volumes-ex13-5/question1"}
+      ],
+      "quiz": [
+        {"qz": "https://example.com/surface-areas-and-volumes-ex13-5/quiz1"}
+      ],
+      "qpdf": [
+        {"qsnpdf": "https://example.com/surface-areas-and-volumes-ex13-5/question-pdf1"}
+      ]
+    },
+    {
+      "chapter": "Statistics Ex 14.1",
+      "ncertsol": "https://example.com/statistics-ex14-1/solutions",
+      "notes": "url",
+      "ncertbook": "https://drive.google.com/file/d/1dp0AhxPSmAjHzWPgKqBNqg6inwZUTHdy/view?usp=sharing",
+      "Hindi_book": "url",
+      "worksheet": "https://example.com/statistics-ex14-1/worksheet",
+      "questions": [
+        {"qsn": "https://example.com/statistics-ex14-1/question1"}
+      ],
+      "quiz": [
+        {"qz": "https://example.com/statistics-ex14-1/quiz1"}
+      ],
+      "qpdf": [
+        {"qsnpdf": "https://example.com/statistics-ex14-1/question-pdf1"}
+      ]
+    },
+    {
+      "chapter": "Statistics Ex 14.2",
+      "ncertsol": "https://example.com/statistics-ex14-2/solutions",
+      "notes": "url",
+      "ncertbook": "https://drive.google.com/file/d/1dp0AhxPSmAjHzWPgKqBNqg6inwZUTHdy/view?usp=sharing",
+      "Hindi_book": "url",
+      "worksheet": "https://example.com/statistics-ex14-2/worksheet",
+      "questions": [
+        {"qsn": "https://example.com/statistics-ex14-2/question1"}
+      ],
+      "quiz": [
+        {"qz": "https://example.com/statistics-ex14-2/quiz1"}
+      ],
+      "qpdf": [
+        {"qsnpdf": "https://example.com/statistics-ex14-2/question-pdf1"}
+      ]
+    },
+    {
+      "chapter": "Statistics Ex 14.3",
+      "ncertsol": "https://example.com/statistics-ex14-3/solutions",
+      "notes": "url",
+      "ncertbook": "https://drive.google.com/file/d/1dp0AhxPSmAjHzWPgKqBNqg6inwZUTHdy/view?usp=sharing",
+      "Hindi_book": "url",
+      "worksheet": "https://example.com/statistics-ex14-3/worksheet",
+      "questions": [
+        {"qsn": "https://example.com/statistics-ex14-3/question1"}
+      ],
+      "quiz": [
+        {"qz": "https://example.com/statistics-ex14-3/quiz1"}
+      ],
+      "qpdf": [
+        {"qsnpdf": "https://example.com/statistics-ex14-3/question-pdf1"}
+      ]
+    },
+    {
+      "chapter": "Statistics Ex 14.4",
+      "ncertsol": "https://example.com/statistics-ex14-4/solutions",
+      "notes": "url",
+      "ncertbook": "https://drive.google.com/file/d/1dp0AhxPSmAjHzWPgKqBNqg6inwZUTHdy/view?usp=sharing",
+      "Hindi_book": "url",
+      "worksheet": "https://example.com/statistics-ex14-4/worksheet",
+      "questions": [
+        {"qsn": "https://example.com/statistics-ex14-4/question1"}
+      ],
+      "quiz": [
+        {"qz": "https://example.com/statistics-ex14-4/quiz1"}
+      ],
+      "qpdf": [
+        {"qsnpdf": "https://example.com/statistics-ex14-4/question-pdf1"}
+      ]
+    },
+    {
+      "chapter": "Probability Ex 15.1",
+      "ncertsol": "https://example.com/probability-ex15-1/solutions",
+      "notes": "url",
+      "ncertbook": "https://drive.google.com/file/d/1dp0AhxPSmAjHzWPgKqBNqg6inwZUTHdy/view?usp=sharing",
+      "Hindi_book": "url",
+      "worksheet": "https://example.com/probability-ex15-1/worksheet",
+      "questions": [
+        {"qsn": "https://example.com/probability-ex15-1/question1"}
+      ],
+      "quiz": [
+        {"qz": "https://example.com/probability-ex15-1/quiz1"}
+      ],
+      "qpdf": [
+        {"qsnpdf": "https://example.com/probability-ex15-1/question-pdf1"}
+      ]
+    }
+  ]
+}

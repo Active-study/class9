@@ -1,0 +1,19 @@
+{
+    "datavs": [
+        {
+            "suburl": "https://example.com/subject1",
+            "sub": "Subject 1",
+            "vir": 1
+        },
+        {
+            "suburl": "https://example.com/subject2",
+            "sub": "Subject 2",
+            "vir": 2
+        },
+        {
+            "suburl": "https://example.com/subject3",
+            "sub": "Subject 3",
+            "vir": 3
+        }
+    ]
+}

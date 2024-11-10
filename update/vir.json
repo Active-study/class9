@@ -6,14 +6,49 @@
             "vir": 1
         },
         {
-            "suburl": "https://example.com/subject2",
-            "sub": "Subject 2",
-            "vir": 2
+            "suburl": "https://raw.githubusercontent.com/Active-study/class9/refs/heads/main/math/math%201%20to%207/math1to7.json",
+            "sub": "Math ch 1 to 7",
+            "vir": 1
         },
         {
-            "suburl": "https://example.com/subject3",
-            "sub": "Subject 3",
-            "vir": 3
+            "suburl": "https://raw.githubusercontent.com/Active-study/class9/refs/heads/main/math/math%208%20to%2015/math8to15.json",
+            "sub": "Math ch 8 to 15",
+            "vir": 1
+        },
+        {
+            "suburl": "https://raw.githubusercontent.com/Active-study/class9/refs/heads/main/SST/sst%20(1).json",
+            "sub": "SST",
+            "vir": 1
+        },
+        {
+            "suburl": "https://raw.githubusercontent.com/Active-study/class9/refs/heads/main/english/Beehive/bee.json",
+            "sub": "Eng-Beehive",
+            "vir": 1
+        },
+        {
+            "suburl": "https://raw.githubusercontent.com/Active-study/class9/refs/heads/main/english/Moments/mom.json",
+            "sub": "Eng-Moments",
+            "vir": 1
+        },
+        {
+            "suburl": "https://raw.githubusercontent.com/Active-study/class9/refs/heads/main/english/Grammar%20/Eng-grammar.json",
+            "sub": "Eng-Grammar",
+            "vir": 1
+        },
+        {
+            "suburl": "https://raw.githubusercontent.com/Active-study/class9/refs/heads/main/hindi/Hin-kshitij/kshitij.json",
+            "sub": "Hin-kshitij",
+            "vir": 1
+        },
+        {
+            "suburl": "https://raw.githubusercontent.com/Active-study/class9/refs/heads/main/hindi/Hin-kritika/kritika.json",
+            "sub": "Hin-kritika",
+            "vir": 1
+        },
+        {
+            "suburl": "https://raw.githubusercontent.com/Active-study/class9/refs/heads/main/hindi/hin-grammar/hindigamm.json",
+            "sub": "Hindi-Grammar",
+            "vir": 1
         }
     ]
 }

@@ -1,0 +1,12 @@
+{
+  "classes": [
+    {
+      "className": "Class 9",
+      "url": "https://raw.githubusercontent.com/Active-study/class9/main/class9_structure.json"
+    },
+    {
+      "className": "Class 10",
+      "url": "https://raw.githubusercontent.com/Active-study/class10/main/class10_structure.json"
+    }
+  ]
+}

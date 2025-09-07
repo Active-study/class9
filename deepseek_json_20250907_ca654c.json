@@ -1,0 +1,21 @@
+{
+  "chapters": [
+    {
+      "chapterName": "Matter in Our Surroundings",
+      "resources": {
+        "Quiz": "https://raw.githubusercontent.com/Active-study/class9/main/science/matter_quiz.json",
+        "Practice Questions": "https://raw.githubusercontent.com/Active-study/class9/main/science/matter_questions.json",
+        "NCERT Book": "https://example.com/ncert/science/matter.pdf",
+        "3D models": "https://raw.githubusercontent.com/Active-study/class9/main/science/matter_3d.json"
+      }
+    },
+    {
+      "chapterName": "Is Matter Around Us Pure?",
+      "resources": {
+        "Quiz": "https://raw.githubusercontent.com/Active-study/class9/main/science/pure_matter_quiz.json",
+        "Practice Questions": "https://raw.githubusercontent.com/Active-study/class9/main/science/pure_matter_questions.json",
+        "NCERT Book": "https://example.com/ncert/science/pure_matter.pdf"
+      }
+    }
+  ]
+}

@@ -7,7 +7,7 @@
         "notes": "https://example.com/matter/notes",
 
         "quiz": [
-          { "qz": "https://example.com/matter/quiz1.json" },
+          { "qz": "https://raw.githubusercontent.com/Satyam2008/question/refs/heads/main/mcq.json" },
           { "qz": "https://example.com/matter/quiz2.json" }
         ],
 

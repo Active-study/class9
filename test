@@ -1,0 +1,24 @@
+{
+  "chapters": [
+    {
+      "chapterName": "Is Matter Around Us Pure?",
+      "resources": {
+        "ncertsol": "https://example.com/matter/solutions",
+        "notes": "https://example.com/matter/notes",
+
+        "quiz": [
+          { "qz": "https://example.com/matter/quiz1.json" },
+          { "qz": "https://example.com/matter/quiz2.json" }
+        ],
+
+        "worksheet": "https://example.com/matter/worksheet.pdf",
+
+        "questions": "https://example.com/matter/single-question.json",
+
+        "questionsPDF": [
+          { "qpdf": "https://example.com/matter/qpdf1.pdf" }
+        ]
+      }
+    }
+  ]
+}

@@ -7,8 +7,11 @@
         "notes": "https://example.com/matter/notes",
 
         "quiz": [
-          { "qz": "https://raw.githubusercontent.com/Satyam2008/question/refs/heads/main/mcq.json" },
-          { "qz": "https://example.com/matter/quiz2.json" }
+          { "qz": "https://raw.githubusercontent.com/Satyam2008/question/refs/heads/main/mcq.json",
+            "qzname":"test1"},
+          { "qz": "https://example.com/matter/quiz2.json" 
+,
+            "qzname":"test1"}
         ],
 
         "worksheet": "https://example.com/matter/worksheet.pdf",

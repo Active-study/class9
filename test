@@ -8,10 +8,10 @@
 
         "quiz": [
           { "qz": "https://raw.githubusercontent.com/Satyam2008/question/refs/heads/main/mcq.json",
-            "qzname":"test1"},
+            "qzname":"qziz1"},
           { "qz": "https://example.com/matter/quiz2.json" 
 ,
-            "qzname":"test1"}
+            "qzname":"quiz2"}
         ],
 
         "worksheet": "https://example.com/matter/worksheet.pdf",
